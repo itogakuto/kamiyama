@@ -19,7 +19,11 @@
     "capacity": "最大60名程度",
     "parking": "10台",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2026022500029/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2026022500029/",
+    "latitude": 33.949965,
+    "longitude": 134.311746,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 2,
@@ -35,7 +39,11 @@
     "detail_summary": "樹齢500年以上、樹周13m、樹高38mの大いちょう。枝から垂れる気根が名前の由来で、晩秋の黄葉や夜間ライトアップ、大久保いちょう祭りが見どころ。",
     "features": "樹齢500年以上、樹周13m、樹高38m、晩秋の黄葉、11月23日大久保いちょう祭り",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025092200013/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025092200013/",
+    "latitude": 33.96583333,
+    "longitude": 134.36222222,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 3,
@@ -52,7 +60,11 @@
     "detail_summary": "1951年に造られた農村舞台。神殿を備え、芝居、人形浄瑠璃、襖からくりに使われてきた。襖絵20組135枚を保存し、毎年4月第2日曜日に定期公演が行われる。",
     "access": "JR徳島駅から約27km車で約45分／道の駅「温泉の里神山」から約3.5km車で約5分",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900241/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900241/",
+    "latitude": 33.9895508,
+    "longitude": 134.3538962,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 4,
@@ -74,7 +86,11 @@
     "capacity": "通所介護B 定員15名",
     "fax": "088-676-0040",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900470/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900470/",
+    "latitude": 33.9886693,
+    "longitude": 134.3940201,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 5,
@@ -95,7 +111,11 @@
     "fax": "088-676-0035",
     "website": "https://anshin.pref.tokushima.jp/med/",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900494/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900494/",
+    "latitude": 33.9672769,
+    "longitude": 134.3502692,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 6,
@@ -115,7 +135,11 @@
     "detail_summary": "一般歯科・小児歯科・矯正歯科。予約制で、予防歯科を主軸にした治療を行う。訪問診療にも対応予定。",
     "services": "一般歯科、小児歯科、矯正歯科",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900463/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900463/",
+    "latitude": 33.968488,
+    "longitude": 134.3650923,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 7,
@@ -136,7 +160,11 @@
     "services": "保険調剤、薬の相談、日用品取り寄せ",
     "fax": "088-676-1526",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900487/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900487/",
+    "latitude": 33.9678602,
+    "longitude": 134.3499803,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 8,
@@ -157,7 +185,11 @@
     "services": "歯科、訪問診療",
     "fax": "088-676-0099",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900500/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900500/",
+    "latitude": 33.9691796,
+    "longitude": 134.3594653,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 9,
@@ -178,7 +210,11 @@
     "services": "外科、内科、整形外科、小児科、放射線科、リハビリテーション科、訪問看護",
     "fax": "088-677-0077",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900517/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900517/",
+    "latitude": 33.9599777,
+    "longitude": 134.3061078,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 10,
@@ -198,7 +234,11 @@
     "services": "内科、外科、整形外科、麻酔科、リハビリテーション科、訪問診療、訪問看護、訪問リハビリ",
     "fax": "088-676-0052",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900524/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900524/",
+    "latitude": 33.9667937,
+    "longitude": 134.3459031,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 11,
@@ -219,7 +259,11 @@
     "capacity": "デイケア定員28名／老健72床",
     "fax": "088-676-1088",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900531/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900531/",
+    "latitude": 33.9667937,
+    "longitude": 134.3459031,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 12,
@@ -240,7 +284,11 @@
     "services": "居宅介護支援、訪問介護、訪問入浴介護",
     "fax": "088-676-0906",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900548/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900548/",
+    "latitude": 33.9723628,
+    "longitude": 134.3680282,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 13,
@@ -260,7 +308,11 @@
     "services": "指定居宅介護支援、通所介護（デイサービスセンター）",
     "fax": "088-678-0340",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900555/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900555/",
+    "latitude": 34.0497569,
+    "longitude": 134.4147791,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 14,
@@ -280,7 +332,11 @@
     "capacity": "18名（9名×2ユニット）",
     "fax": "088-636-7911",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900562/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900562/",
+    "latitude": 33.9669964,
+    "longitude": 134.3448726,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 15,
@@ -300,7 +356,11 @@
     "services": "歯科、口腔外科、訪問診療",
     "fax": "088-676-0353",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900579/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900579/",
+    "latitude": 33.9674797,
+    "longitude": 134.3476417,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 16,
@@ -318,7 +378,11 @@
     "capacity": "50床",
     "fax": "088-676-0347",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900586/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900586/",
+    "latitude": 33.9742763,
+    "longitude": 134.3639814,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 17,
@@ -334,7 +398,11 @@
     "detail_summary": "神山杉を使った器やアロマを販売する店舗。道の駅すぐ、国道438号沿いの高台にあり、神山杉の器を店頭で試せる。",
     "services": "神山杉の器、アロマ、土産・贈答品販売",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900661/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900661/",
+    "latitude": 33.97183,
+    "longitude": 134.36348,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 18,
@@ -350,7 +418,11 @@
     "detail_summary": "コーヒーと季節の花が迎える喫茶。挽きたてコーヒー、手作りケーキ、日替わり定食、カレー、ピラフ、トーストなどを提供。",
     "menu": "コーヒー、手作りケーキ、日替わり定食、カレー、ピラフ、トースト",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900326/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900326/",
+    "latitude": 33.977984,
+    "longitude": 134.373425,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 19,
@@ -366,7 +438,11 @@
     "detail_summary": "神山温泉内のレストラン。地元食材の和食を中心に、神山産げんこつ椎茸の陶板焼きを味わえる「神山げんこつ定食」が人気。",
     "menu": "神山げんこつ定食、地元食材の和食",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900272/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900272/",
+    "latitude": 33.971766,
+    "longitude": 134.3701,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 20,
@@ -382,7 +458,11 @@
     "detail_summary": "道の駅「温泉の里神山」内の食事処。昼食や軽食、地元野菜を使ったセットメニュー、すだち・うめなどの旬感アイスを提供。",
     "menu": "本日のセットメニュー、旬感アイス、軽食",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900364/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900364/",
+    "latitude": 33.973568,
+    "longitude": 134.367684,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 21,
@@ -398,7 +478,11 @@
     "item_type": "公園",
     "detail_summary": "西龍王山南側の自然林を利用した県立森林公園。芝生、山並みの眺望、徳島市・鳴門海峡・淡路島方面の展望が楽しめる。",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900340/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900340/",
+    "latitude": 34.02282,
+    "longitude": 134.421403,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 22,
@@ -414,7 +498,11 @@
     "detail_summary": "岳人の森内、標高約1000mにある山上の茶屋。阿波薬膳遊山弁当や田舎そばセット、日替定食などを提供。",
     "menu": "阿波薬膳遊山弁当（要予約）、田舎そばセット、日替定食",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900180/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900180/",
+    "latitude": 33.925824,
+    "longitude": 134.270905,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 23,
@@ -429,7 +517,11 @@
     "item_type": "焼肉・食事",
     "detail_summary": "焼肉を中心に扱う食事処。ボリュームのあるランチメニューが特徴。",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900050/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900050/",
+    "latitude": 33.972871,
+    "longitude": 134.370925,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 24,
@@ -445,7 +537,11 @@
     "detail_summary": "移住者が始めたカフェ。古代米キーマカレー、玄米もち入り田舎そば、ぜんざいなど、穀物にこだわったメニューを提供。",
     "menu": "古代米キーマカレー、玄米もち入り田舎そば、ぜんざい",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900043/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900043/",
+    "latitude": 33.974888,
+    "longitude": 134.370567,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 25,
@@ -462,7 +558,11 @@
     "detail_summary": "上山谷6箇村の大庄屋、三日月・粟飯原家の分家。6間取りで支配階級の住宅と考えられ、主屋のほか納屋・土蔵がある。",
     "access": "JR徳島駅から約30km車で約50分／道の駅「温泉の里神山」から約4.7km車で約8分",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900029/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900029/",
+    "latitude": 33.9653621,
+    "longitude": 134.3238387,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 26,
@@ -483,7 +583,11 @@
     "contact_name": "神山町観光協会（神山町役場産業観光課内）",
     "email": "sangyoukanko@kamiyama.i-tokushima.jp",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900388/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900388/",
+    "latitude": 33.9636412,
+    "longitude": 134.3882896,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 27,
@@ -499,7 +603,11 @@
     "detail_summary": "国道438号線など町内各地に植えられた「神山しだれさくら」の桜並木。春の花、夏の緑、秋の紅葉、冬のシルエットが楽しめる。",
     "features": "令和7年時点で約7,000本の桜が町内各地に植栽",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900333/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900333/",
+    "latitude": 33.987491,
+    "longitude": 134.391911,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 28,
@@ -515,7 +623,11 @@
     "detail_summary": "旧鬼籠野小学校を利用した資料館。生活用品、養蚕・織物、農業、林業・商業・通信運輸、武具・娯楽・消防などの道具や衣装を展示。",
     "features": "昔の道具・衣装展示、手に取って見られる資料あり",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900203/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900203/",
+    "latitude": 33.98877,
+    "longitude": 134.395741,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 29,
@@ -531,7 +643,11 @@
     "detail_summary": "焼山寺山8合目近く、標高938mの山岳札所。四国霊場12番札所で、参道の樹齢500年超の杉、三面大黒天、奥ノ院からの眺望が見どころ。",
     "features": "四国霊場12番札所、参道杉並木、三面大黒天、奥ノ院",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900357/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900357/",
+    "latitude": 33.984969,
+    "longitude": 134.310218,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 30,
@@ -548,7 +664,11 @@
     "detail_summary": "1925年頃に建てられた劇場。1960年代半ばまで演劇、浄瑠璃、映画などを上演。直径5m程の回り舞台や広告看板が残る。",
     "access": "JR徳島駅から約28km車で約45分／道の駅「温泉の里神山」から約2.5km車で約5分",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900418/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900418/",
+    "latitude": 33.9677242,
+    "longitude": 134.3475805,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 31,
@@ -569,7 +689,11 @@
     "contact_name": "タカガワ東徳島ゴルフ倶楽部",
     "website": "https://higashitokushima-gc.com/",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900371/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900371/",
+    "latitude": 34.0377738,
+    "longitude": 134.4153704,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 32,
@@ -585,7 +709,11 @@
     "detail_summary": "鮎喰川上流の神通渓谷にある落差30mの滝。駐車場から約500m、徒歩約15分の遊歩道で向かい、冬には氷瀑になることもある。",
     "features": "落差30m、駐車場から徒歩約15分、冬の氷瀑",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900142/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900142/",
+    "latitude": 33.916908,
+    "longitude": 134.288104,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 33,
@@ -601,7 +729,11 @@
     "detail_summary": "土須峠近く、標高約1000mにある山岳植物園。シャクナゲ、ヒメシャガ、ベニバナヤマシャクヤクなど希少な高山植物を楽しめる。",
     "features": "高山植物、園内散策、植物名プレート",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900098/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900098/",
+    "latitude": 33.925824,
+    "longitude": 134.270905,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 34,
@@ -623,7 +755,11 @@
     "contact_name": "神山町観光協会（神山町役場産業観光課内）",
     "email": "sangyoukanko@kamiyama.i-tokushima.jp",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900012/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900012/",
+    "latitude": 33.938713,
+    "longitude": 134.271811,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 35,
@@ -639,7 +775,11 @@
     "item_type": "花・景観",
     "detail_summary": "上分地区の山の中腹にある花の名所。春にツツジやシャクナゲ、シャガなどが咲き、鮎喰川沿いの集落を望む展望も楽しめる。",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900166/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900166/",
+    "latitude": 33.95599,
+    "longitude": 134.279158,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 36,
@@ -655,7 +795,11 @@
     "detail_summary": "明王寺にある樹齢100年と60年の2本のしだれ桜。3月下旬から4月上旬に見頃となり、近隣のソメイヨシノや宇佐八幡神社の大樟も散策できる。",
     "features": "3月下旬～4月上旬、しだれ桜2本",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900234/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900234/",
+    "latitude": 33.964189,
+    "longitude": 134.313505,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 37,
@@ -670,7 +814,11 @@
     "item_type": "寺・史跡",
     "detail_summary": "標高700mの山頂にある寺。千手観音や天照大神などがまつられていたと伝わり、卑弥呼伝説に関わる史跡や常夜塔が残る。",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900111/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900111/",
+    "latitude": 33.946784,
+    "longitude": 134.329044,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 38,
@@ -687,7 +835,11 @@
     "detail_summary": "四国霊場11番札所から12番札所へ向かう途中、標高730mの峠にある庵。弘法大師像と徳島県指定天然記念物の「左右内の一本杉」がある。",
     "features": "左右内の一本杉：樹周約8m、高さ約30m",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900128/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900128/",
+    "latitude": 33.9940545,
+    "longitude": 134.3142258,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 39,
@@ -703,7 +855,11 @@
     "item_type": "神社",
     "detail_summary": "祭神は五穀を司る大宜都比売命。阿波国に粟を蒔き広めたという伝承があり、14枚の棟札が現存する。",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900456/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900456/",
+    "latitude": 33.970699,
+    "longitude": 134.367047,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 40,
@@ -719,7 +875,11 @@
     "detail_summary": "慶応4年（1868年）からの歴史を持つ塩泉。売店、レストラン、宿泊施設「ホテル四季の里」を併設し、5月には神山温泉まつりも開催される。",
     "services": "温泉、売店、レストラン、ホテル四季の里",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900173/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900173/",
+    "latitude": 33.9718748,
+    "longitude": 134.3699952,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 41,
@@ -736,7 +896,11 @@
     "detail_summary": "神光寺の「のぼり藤」は10数m立ち上がる藤で、見頃は4月下旬頃。境内の白藤や近隣の菜の花畑も見どころ。",
     "features": "4月下旬頃が見頃、のぼり藤・白藤",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900135/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900135/",
+    "latitude": 33.998259,
+    "longitude": 134.400026,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 42,
@@ -756,7 +920,11 @@
     "access": "JR徳島駅から約24km車で約45分／道の駅「温泉の里神山」から約5km車で約8分",
     "contact_name": "神山町阿川公民館",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900159/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900159/",
+    "latitude": 34.0150912,
+    "longitude": 134.3726889,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 43,
@@ -774,7 +942,11 @@
     "fee": "無料",
     "access": "JR徳島駅から約26km車で約40分／道の駅「温泉の里神山」から約1km車で約2分（神山町農村環境改善センターまで）",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900258/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900258/",
+    "latitude": 33.9710006,
+    "longitude": 134.3647672,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 44,
@@ -791,7 +963,11 @@
     "detail_summary": "徳島県指定天然記念物の大けやき。推定樹齢900年、樹周10.4m、樹高35mで、徳島県内最大のけやき。",
     "features": "推定樹齢900年、樹周10.4m、樹高35m",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900227/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900227/",
+    "latitude": 34.0258958,
+    "longitude": 134.3732527,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 45,
@@ -807,7 +983,11 @@
     "detail_summary": "木造建築の道の駅。町内の野菜、花、加工品、工芸品、すだち・梅を使った特産品を販売し、併設の旬彩茶屋で軽食やアイスも楽しめる。",
     "services": "農産物、加工品、工芸品、特産品販売、旬彩茶屋",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900302/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900302/",
+    "latitude": 33.97359,
+    "longitude": 134.367678,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 46,
@@ -823,7 +1003,11 @@
     "detail_summary": "鮎喰川ほとりの食事処。仕出し中心だが、開いていれば昼食も提供。あめご・鮎料理、あめごの塩焼き定食、天然鮎の塩焼き定食が特徴。",
     "menu": "あめごの塩焼き定食、天然鮎の塩焼き定食、あめご・鮎料理",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900081/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900081/",
+    "latitude": 33.960198,
+    "longitude": 134.276404,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 47,
@@ -839,7 +1023,11 @@
     "detail_summary": "寿司各種と峠巻が名物。親子丼、日本そば、ラーメン、単品メニューもあり、テイクアウトにも対応。",
     "menu": "寿司、峠巻、親子丼、日本そば、ラーメン、単品メニュー",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900104/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900104/",
+    "latitude": 33.960258,
+    "longitude": 134.307449,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 48,
@@ -860,7 +1048,11 @@
     "contact_name": "神山町観光協会・阿川公民館",
     "email": "sangyoukanko@kamiyama.i-tokushima.jp",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900067/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900067/",
+    "latitude": 34.005199,
+    "longitude": 134.3520658,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 49,
@@ -880,7 +1072,11 @@
     "access": "JR徳島駅から約23km車で約40分／道の駅「温泉の里神山」から約7km車で約11分",
     "contact_name": "神山町鬼籠野公民館",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900425/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900425/",
+    "latitude": 34.0060791,
+    "longitude": 134.4165173,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 50,
@@ -896,7 +1092,11 @@
     "detail_summary": "雄滝27m、雌滝45mの二つの流れを持つ滝。駐車場から約700m、徒歩約20分の登り坂で、途中に複数の滝や渓谷景観がある。",
     "features": "雄滝27m、雌滝45m、駐車場から徒歩約20分、歩きやすい靴推奨",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900036/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900036/",
+    "latitude": 33.950908,
+    "longitude": 134.335364,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   },
   {
     "order": 51,
@@ -912,6 +1112,10 @@
     "detail_summary": "宇佐八幡神社（辰の宮）の大樟。三樹は徳島県指定天然記念物で、川側の樟は樹周約8m、樹齢約800年。",
     "features": "徳島県指定天然記念物、樹周約8m、樹齢約800年",
     "data_completeness": "詳細ページ本文から主要項目を抽出。公式ページに記載が確認できない項目は空欄。",
-    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900395/"
+    "detail_source": "https://www.town.kamiyama.lg.jp/enjoy/map/docs/2025061900395/",
+    "latitude": 33.9622041,
+    "longitude": 134.3085683,
+    "coordinate_accuracy": "point",
+    "coordinate_source": "神山町公式ページ"
   }
 ]

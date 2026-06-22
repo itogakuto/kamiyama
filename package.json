@@ -1,9 +1,18 @@
 {
+  "type": "module",
   "scripts": {
-    "dev": "wrangler pages dev .",
-    "deploy": "wrangler pages deploy . --project-name kamiyama-map"
+    "dev": "vite",
+    "build": "vite build",
+    "geocode": "node scripts/geocode-addresses.js",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "wrangler pages deploy dist --project-name kamiyama-map"
   },
   "devDependencies": {
+    "vite": "^8.0.16",
     "wrangler": "latest"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4"
   }
 }

@@ -1,23 +1,45 @@
 <!DOCTYPE html>
-<head lang="ja">
+<html lang="ja">
+<head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>Kamiyama_Yusan_Map</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="徳島県神山町の自然、食、文化などのおすすめスポットを探せる遊山マップです。">
+    <title>神山遊山マップ | 神山町の魅力をめぐる</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <header class="hero">
+        <p class="eyebrow">KAMIYAMA YUSAN MAP</p>
+        <h1>神山町の魅力をめぐる、<br>神山遊山マップ</h1>
+        <p class="hero-description">
+            豊かな山々と清らかな川に囲まれた、徳島県神山町。
+            四季折々の自然や土地の味、受け継がれてきた文化、まちに暮らす人々との出会いがあります。
+            気になる場所を見つけて、あなただけの神山めぐりを楽しんでください。
+        </p>
+    </header>
+
     <main>
-  <section class="controls">
-    <label>
-      キーワード検索
-      <input id="search" type="search" placeholder="例：滝、桜、カフェ">
-    </label>
+        <section class="map-section" aria-labelledby="map-heading">
+            <div class="section-heading">
+                <p class="eyebrow">EXPLORE KAMIYAMA</p>
+                <h2 id="map-heading">地図から神山町を見る</h2>
+            </div>
+            <div id="map" class="map" role="region" aria-label="神山町周辺の地図"></div>
+            <div id="map-legend" class="map-legend" aria-label="地図ピンの分類"></div>
+            <p class="map-note">地図をドラッグしたり、拡大・縮小したりして神山町の周辺をご覧いただけます。</p>
+        </section>
 
-    <div id="buttons" class="buttons"></div>
-    </section>
+        <section class="controls" aria-labelledby="search-heading">
+            <h2 id="search-heading">行きたい場所を探す</h2>
+            <label for="search">キーワード検索</label>
+            <input id="search" type="search" placeholder="例：滝、桜、カフェ">
 
-    <p id="count">データを読み込んでいます...</p>
-    <div id="cards" class="cards"></div>
+            <div id="buttons" class="buttons"></div>
+        </section>
+
+        <p id="count">データを読み込んでいます...</p>
+        <div id="cards" class="cards"></div>
     </main>
-    <script src="script.js"></script>
+    <script type="module" src="script.js"></script>
 </body>
+</html>
