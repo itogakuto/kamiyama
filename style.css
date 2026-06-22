@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+    background: #f7f3e8;
+    color: #222;
+}
+
+.hero,
+main {
+    max-width: 960px;
+    margin: auto;
+    padding: 24px;
+}
+
+.eyebrow {
+    color: #2f6f4e;
+    font-weight: bold;
+}
+
+.card {
+    background: white;
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 4 12px #002;
+}
+
+.category {
+    color: #2f6f4e;
+    font-weight: bold;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+}
+
+.card a {
+  color: #2f6f4e;
+  font-weight: bold;
+}
+
+.controls {
+  background: #fffaf0;
+  border: 1px solid #eadfca;
+  border-radius: 16px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.controls label {
+  display: grid;
+  gap: 8px;
+  font-weight: bold;
+}
+
+input {
+  font: inherit;
+  padding: 10px 12px;
+  border: 1px solid #aaa;
+  border-radius: 10px;
+}
+
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+button {
+  padding: 8px 14px;
+  border: 1px solid #888;
+  border-radius: 999px;
+  background: white;
+  cursor: pointer;
+}
+
+button.active {
+  background: #2f6f4e;
+  color: white;
+}
+
+.card {
+  overflow: hidden;
+}
+
+.card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  background: #ddd;
+}
+
+.card-body {
+  padding: 16px;
+}
+
+.empty {
+  background: white;
+  border-radius: 16px;
+  padding: 20px;
+}
+
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.links a {
+  display: inline-block;
+  color: #2f6f4e;
+  background: #edf7f1;
+  border-radius: 999px;
+  padding: 8px 12px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.badge {
+  display: inline-block;
+  color: white;
+  background: #d0702f;
+  border-radius: 999px;
+  padding: 4px 10px;
+  font-weight: bold;
+}

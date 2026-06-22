@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "wrangler pages dev .",
+    "deploy": "wrangler pages deploy . --project-name kamiyama-map"
+  },
+  "devDependencies": {
+    "wrangler": "latest"
+  }
+}
