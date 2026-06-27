@@ -1,4 +1,4 @@
-import * as L from "./node_modules/leaflet/dist/leaflet-src.esm.js";
+import * as L from "leaflet";
 
 const buttons = document.querySelector("#buttons");
 const cards = document.querySelector("#cards");
