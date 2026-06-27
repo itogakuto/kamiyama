@@ -3,6 +3,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "illustration": "node scripts/build-illustration-map.js",
     "geocode": "node scripts/geocode-addresses.js",
     "preview": "vite preview",
     "predeploy": "npm run build",

@@ -23,10 +23,34 @@
             <div class="section-heading">
                 <p class="eyebrow">EXPLORE KAMIYAMA</p>
                 <h2 id="map-heading">地図から神山町を見る</h2>
+                <p class="section-description">神山町を描いた観光イラスト・地図・航空写真を切り替えられます。</p>
             </div>
-            <div id="map" class="map" role="region" aria-label="神山町周辺の地図"></div>
+            <div class="map-shell">
+                <div class="map-toolbar" aria-label="地図の表示設定">
+                    <div class="map-mode-switcher" role="group" aria-label="地図の種類">
+                        <button class="map-mode-button active" type="button" data-map-mode="illustration" aria-pressed="true">イラスト</button>
+                        <button class="map-mode-button" type="button" data-map-mode="standard" aria-pressed="false">地図</button>
+                        <button class="map-mode-button" type="button" data-map-mode="photo" aria-pressed="false">航空写真</button>
+                    </div>
+                    <div class="map-actions">
+                        <button id="show-all-spots" class="map-action-button" type="button">結果全体</button>
+                        <button id="show-current-location" class="map-action-button" type="button">現在地</button>
+                    </div>
+                </div>
+                <div id="map" class="map" role="region" aria-label="神山町周辺の地図"></div>
+                <p id="map-mode-note" class="map-mode-note" aria-live="polite">神山町の町域、山地、鮎喰川、主要道路の位置関係を簡略化した観光イラストです。経路の確認には「地図」をご利用ください。</p>
+            </div>
             <div id="map-legend" class="map-legend" aria-label="地図ピンの分類"></div>
-            <p class="map-note">地図をドラッグしたり、拡大・縮小したりして神山町の周辺をご覧いただけます。</p>
+            <p class="map-note">ピンまたは一覧のカードを選ぶと、同じスポットを地図上で確認できます。</p>
+        </section>
+
+        <section class="routes-section" aria-labelledby="routes-heading">
+            <div class="section-heading">
+                <p class="eyebrow">YUSAN ROUTES</p>
+                <h2 id="routes-heading">おすすめの遊山ルート</h2>
+                <p class="section-description">自然、文化、季節の花を軸に、神山町をめぐる3つのコースを提案します。</p>
+            </div>
+            <div id="route-suggestions" class="route-suggestions"></div>
         </section>
 
         <section class="controls" aria-labelledby="search-heading">
